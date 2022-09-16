@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839745490025",
+    "project_id": "mackelvin-dine-right",
+    "storage_bucket": "mackelvin-dine-right.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839745490025:android:b22876491b97fd5c78e6f8",
+        "android_client_info": {
+          "package_name": "com.example.mack_dine_right"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839745490025-c5acekiq8870mvc7i3pg0ksps9kngcjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI4lMNDzEX9g9LBUUxMOS-5nfn2SOcj2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839745490025-c5acekiq8870mvc7i3pg0ksps9kngcjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
